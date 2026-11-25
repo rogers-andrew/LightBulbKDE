@@ -30,7 +30,7 @@ On Windows, use [upstream LightBulb](https://github.com/Tyrrrz/LightBulb/release
 ## Install
 
 ```bash
-git clone https://github.com/Laserwolve/LightBulbKDE.git
+git clone https://github.com/rogers-andrew/LightBulbKDE.git
 cd LightBulbKDE
 ./Installer/Linux/install.sh
 ```

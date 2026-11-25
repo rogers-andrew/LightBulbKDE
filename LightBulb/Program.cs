@@ -29,7 +29,7 @@ public static class Program
             ? Path.ChangeExtension(Assembly.Location, "exe")
             : Environment.ProcessPath ?? Path.ChangeExtension(Assembly.Location, null);
 
-    public static string ProjectUrl { get; } = "https://github.com/Laserwolve/LightBulbKDE";
+    public static string ProjectUrl { get; } = "https://github.com/rogers-andrew/LightBulbKDE";
 
     public static string ProjectReleasesUrl { get; } = $"{ProjectUrl}/releases";
 
